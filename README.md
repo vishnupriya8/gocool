@@ -1,0 +1,2 @@
+# gocool
+our first repository
